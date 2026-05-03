@@ -96,3 +96,16 @@ The Flask backend exposes the following endpoints:
 *   **Google Maps/Sheets API**: While requested as optional, they were omitted from this MVP to focus on the core user journey, simulator, and AI assistant. The timeline dates are currently illustrative.
 *   **Data Persistence**: Currently, user progress and chat history are maintained in local component state. A production version would utilize a database (like Firebase or PostgreSQL) to persist user accounts.
 *   **Multi-language**: The UI is built to be clean and standard, preparing it for easy integration with libraries like `react-i18next` for Tamil/English support in the future.
+
+---
+
+## 🏆 Submission Links
+
+Public GitHub Repository Link
+* [Your GitHub Link Here]
+
+Deployed Link - (Cloud run URL)
+* [Your Cloud Run URL Here]
+
+LinkedIn Post
+* [Your LinkedIn Post Link Here]
